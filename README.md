@@ -26,13 +26,15 @@ sh -i -c "$(curl -fsSL https://raw.githubusercontent.com/OriR/dotfiles/master/se
   * [`firefox-nightly`](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly) - Firefox Nightly browser (nightly updates)
   * [`google-chrome`](https://www.google.com/chrome/) - Chrome browser
   * [`google-chrome-canary`](https://www.google.com/chrome/canary/) - Chrome Canary browser (nightly updates)
+  * [`iterm2`](https://iterm2.com/) - macOS terminal replacement
+  * [`kap`](https://getkap.co/) - Better screen recording tool
   * [`microsoft-edge`](https://www.microsoft.com/en-us/edge) - Edge browser
   * [`microsoft-edge-dev`](https://www.microsoftedgeinsider.com/en-us/download) - Edge Dev channel brwoser (weekly updates)
   * [`raycast`](https://raycast.app/) - an alternative to `Spotlight` on steroids (A rethink to Alfred)
   * [`rectangle`](https://www.rectangleapp.com/) - macOS window resizer (A successor fork of spectacle)
   * [`safari-technology-preview`](https://developer.apple.com/safari/technology-preview/) - Safari Technology Preview browser (weekly updates), `Safari` is assumed on macOS
-  * [`iterm2`](https://iterm2.com/) - macOS terminal replacement
   * [`slack`](https://slack.com/intl/en-il/) - slack macOS desktop client
+  * [`shottr`](https://shottr.cc/) - Better screenshot capturing tool
   * [`visual-studio-code`](https://code.visualstudio.com/) - lightweight yet powerful code editor
 * Antibody
   * [`caarlos0/ports`](https://github.com/caarlos0/ports) - utility for monitoring processes hogging ports
