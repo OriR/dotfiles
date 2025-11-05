@@ -16,8 +16,6 @@ sh -i -c "$(curl -fsSL https://raw.githubusercontent.com/OriR/dotfiles/master/se
   * [`jq`](https://github.com/stedolan/jq) - a command line JSON processor
   * [`navi`](https://github.com/denisidoro/navi) - a command line command searcher
   * [`ripgrep`](https://github.com/BurntSushi/ripgrep) - a better `grep` utility
-  * [`thefuck`](https://github.com/nvbn/thefuck) - for those autocorrectable moments you fuck-up in the command line
-  * [`yarn`](https://github.com/yarnpkg/yarn/) - an alternative package manager for JS
   * [`up`](https://github.com/akavel/up) - an interactive shell pipe explorer
   * [`docker`](https://www.docker.com/) - containerization application for better isolation & machine decontamination
   * [`flux`](https://justgetflux.com/) - macOS application for blue light filter
@@ -31,7 +29,6 @@ sh -i -c "$(curl -fsSL https://raw.githubusercontent.com/OriR/dotfiles/master/se
   * [`microsoft-edge`](https://www.microsoft.com/en-us/edge) - Edge browser
   * [`microsoft-edge-dev`](https://www.microsoftedgeinsider.com/en-us/download) - Edge Dev channel brwoser (weekly updates)
   * [`raycast`](https://raycast.app/) - an alternative to `Spotlight` on steroids (A rethink to Alfred)
-  * [`rectangle`](https://www.rectangleapp.com/) - macOS window resizer (A successor fork of spectacle)
   * [`safari-technology-preview`](https://developer.apple.com/safari/technology-preview/) - Safari Technology Preview browser (weekly updates), `Safari` is assumed on macOS
   * [`slack`](https://slack.com/intl/en-il/) - slack macOS desktop client
   * [`shottr`](https://shottr.cc/) - Better screenshot capturing tool
