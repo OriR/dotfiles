@@ -1,11 +1,5 @@
 tap "denisidoro/tools"
 tap "getantibody/tap"
-tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/cask-fonts"
-tap "homebrew/cask-versions"
-tap "homebrew/core"
-tap "homebrew/services"
 
 brew "antidote"
 brew "bat"

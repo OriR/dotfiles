@@ -1,6 +1,8 @@
 {{- $email := promptString "email" -}}
 {{- $kind := promptString "machine kind (personal/work)" -}}
+{{- $optimizeBattery := promptBool "optimize battery?" -}}
 [data]
   email = "{{ $email }}"
   name = "Ori Riner"
   kind = "{{ $kind }}"
+  optimizeBattery = "{{ $optimizeBattery }}"

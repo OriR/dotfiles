@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Ask for the administrator password upfront
+# Ask for the administrator password  upfront
 sudo -v
 
 # Keep-alive: update existing `sudo` time stamp until `.macos` has finished
