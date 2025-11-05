@@ -5,9 +5,6 @@
 # Override `ls` to always show detailed information.
 alias ls="ls -la"
 
-# Create the `fuck` alias to fix commands
-eval $(thefuck --alias)
-
 #######################################
 # ZSH                                 #
 #######################################
