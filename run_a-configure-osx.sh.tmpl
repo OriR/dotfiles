@@ -157,7 +157,7 @@ sudo pmset -a autorestart 1
 # Restart automatically if the computer freezes
 sudo systemsetup -setrestartfreeze on
 
-{{ if eq .optimizeBattery true }}
+{{ if .optimizeBattery }}
 # Sleep the display after 15 minutes
 sudo pmset -a displaysleep 20
 
