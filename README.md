@@ -8,7 +8,7 @@ sh -i -c "$(curl -fsSL https://raw.githubusercontent.com/OriR/dotfiles/master/se
 ## What's in the box?
 ### macOS
 * Homebrew
-  * [`antibody`](https://github.com/getantibody/antibody) - a fast `zsh` plugin manager
+  * [`antidote`](https://github.com/mattmc3/antidote) - a fast `zsh` plugin manager
   * [`bat`](https://github.com/sharkdp/bat) - a `cat` drop-in replacement
   * [`fzf`](https://github.com/junegunn/fzf) - a command line fuzzy finder
   * [`fx`](https://github.com/antonmedv/fx) - a JSON viewer in the terminal
